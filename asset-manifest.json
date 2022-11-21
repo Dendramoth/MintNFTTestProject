@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MintNFTTestProject/static/css/main.185901da.chunk.css",
+    "main.js": "/MintNFTTestProject/static/js/main.b58bddc6.chunk.js",
+    "main.js.map": "/MintNFTTestProject/static/js/main.b58bddc6.chunk.js.map",
+    "runtime-main.js": "/MintNFTTestProject/static/js/runtime-main.738ddeb8.js",
+    "runtime-main.js.map": "/MintNFTTestProject/static/js/runtime-main.738ddeb8.js.map",
+    "static/js/2.12b4ddfc.chunk.js": "/MintNFTTestProject/static/js/2.12b4ddfc.chunk.js",
+    "static/js/2.12b4ddfc.chunk.js.map": "/MintNFTTestProject/static/js/2.12b4ddfc.chunk.js.map",
+    "static/js/3.80214bdd.chunk.js": "/MintNFTTestProject/static/js/3.80214bdd.chunk.js",
+    "static/js/3.80214bdd.chunk.js.map": "/MintNFTTestProject/static/js/3.80214bdd.chunk.js.map",
+    "index.html": "/MintNFTTestProject/index.html",
+    "static/css/main.185901da.chunk.css.map": "/MintNFTTestProject/static/css/main.185901da.chunk.css.map",
+    "static/js/2.12b4ddfc.chunk.js.LICENSE.txt": "/MintNFTTestProject/static/js/2.12b4ddfc.chunk.js.LICENSE.txt",
+    "static/media/alchemylogo.f670e5f2.svg": "/MintNFTTestProject/static/media/alchemylogo.f670e5f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.738ddeb8.js",
+    "static/js/2.12b4ddfc.chunk.js",
+    "static/css/main.185901da.chunk.css",
+    "static/js/main.b58bddc6.chunk.js"
+  ]
+}
